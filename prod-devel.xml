@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="github" fetch="git://github.com" />
+
+    <default remote="github" sync-j="10" sync-c="true" />
+
+    <project name="andr2000/meta-xt-prod-devel" path="meta-xt-prod-devel" upstream="master" revision="master" />
+    <project name="andr2000/meta-xt-images" path="meta-xt-images" upstream="master" revision="master" />
+    <project name="andr2000/xt-distro" path="xt-distro" upstream="master" revision="master" />
+</manifest>
