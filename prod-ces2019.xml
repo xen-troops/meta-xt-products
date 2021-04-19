@@ -4,7 +4,7 @@
 
     <default remote="github" sync-j="10" sync-c="true" />
 
-    <project name="xen-troops/meta-xt-prod-ces2019" path="meta-xt-prod-ces2019" upstream="master" revision="master" />
-    <project name="xen-troops/meta-xt-images" path="meta-xt-images" upstream="master" revision="master" />
-    <project name="xen-troops/xt-distro" path="xt-distro" upstream="master" revision="master" />
+    <project name="xen-troops/meta-xt-prod-ces2019" path="meta-xt-prod-ces2019" upstream="master" revision="0143cb4936614c167f80959724cc78691dbbbf5b" />
+    <project name="xen-troops/meta-xt-images" path="meta-xt-images" upstream="master" revision="c2a1c600df8d3824dcb94ed1e16555a3f9c93032" />
+    <project name="xen-troops/xt-distro" path="xt-distro" upstream="master" revision="ac2a0abb1833a6286f8f3e6b2c81d5e4c204de83" />
 </manifest>
