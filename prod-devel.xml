@@ -4,7 +4,7 @@
 
     <default remote="github" sync-j="10" sync-c="true" />
 
-    <project name="xen-troops/meta-xt-prod-devel" path="meta-xt-prod-devel" upstream="pci_phase2_pre" revision="pci_phase2_pre" />
-    <project name="xen-troops/meta-xt-images" path="meta-xt-images" upstream="master" revision="master" />
-    <project name="xen-troops/xt-distro" path="xt-distro" upstream="master" revision="master" />
+    <project name="xen-troops/meta-xt-prod-devel" path="meta-xt-prod-devel" upstream="pci_phase2" revision="pci_phase2" />
+    <project name="xen-troops/meta-xt-images" path="meta-xt-images" upstream="master" revision="dfa428a1c52cc56be0ad70b5176b54988f551a46" />
+    <project name="xen-troops/xt-distro" path="xt-distro" upstream="master" revision="548a717f2112bf7f8ea21544a3e465bb7af00c06" />
 </manifest>
