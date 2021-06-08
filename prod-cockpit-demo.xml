@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="github" fetch="git://github.com" />
+
+    <default remote="github" sync-j="10" sync-c="true" />
+
+    <project name="xen-troops/meta-xt-prod-cockpit-demo" path="meta-xt-prod-cockpit-demo" upstream="master" revision="master" />
+    <project name="xen-troops/meta-xt-images" path="meta-xt-images" upstream="master" revision="dfa428a1c52cc56be0ad70b5176b54988f551a46" />
+    <project name="xen-troops/xt-distro" path="xt-distro" upstream="master" revision="931239d5cfd4df24639b0b77a293efe0f7335b5b" />
+</manifest>
