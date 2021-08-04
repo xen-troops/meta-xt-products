@@ -6,7 +6,7 @@
     <default remote="github" sync-j="10" sync-c="true" />
 
     <project name="xen-troops/meta-xt-prod-aos" path="meta-xt-prod-aos" upstream="master" revision="master" />
-    <project name="xen-troops/meta-xt-images" path="meta-xt-images" upstream="master" revision="master" />
+    <project name="xen-troops/meta-xt-images" path="meta-xt-images" upstream="master" revision="3b886434bfc2e001e52afa33bd0896d16bbe2041" />
     <project name="xen-troops/xt-distro" path="xt-distro" upstream="master" revision="master" />
     <project remote="epam" name="epmd-aepr/meta-aos" path="meta-aos" upstream="master" revision="master" />
 </manifest>
